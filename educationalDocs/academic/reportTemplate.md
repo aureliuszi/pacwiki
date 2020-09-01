@@ -1,3 +1,5 @@
+*it is recommended to view this document as a word doc [here] (https://github.com/aureliuszi/pacwiki/blob/master/educationalDocs/academic/REPORT%20TEMPLATE.docx)
+
 # **NAME OF EXPERIMENT**
 
 **REPORT AUTHORNAME**
