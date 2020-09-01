@@ -1,6 +1,6 @@
 # POTATOES AND CATS GO HOME! (LAB HOME)
 
-This wiki consists of everything you need to navigate our lab. We have three types of resources available to you:
+This site consists of our aggregated knowledge as a lab. We have three types of resources:
 
 **1. [TUTORIALS AND CODE EXAMPLES](https://aureliuszi.github.io/pacwiki/tutorialsCodeExamples/) - practical research guides**
   - Instructions on how to navigate and implement the Twitter API, Topic Modelling and sentiment analysis
