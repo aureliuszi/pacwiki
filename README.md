@@ -2,7 +2,7 @@
 
 This wiki consists of everything you need to navigate our lab. We have three types of resources available to you:
 
-**1. [TUTORIALS AND CODE EXAMPLES](https://github.com/aureliuszi/pacwiki/blob/master/tutorialsCodeExamples/readme.md) - practical research guides**
+**1. [TUTORIALS AND CODE EXAMPLES](https://github.com/aureliuszi/pacwiki/blob/master/tutorialsCodeExamples/tce.md) - practical research guides**
   - Instructions on how to navigate and implement the Twitter API, Topic Modelling and sentiment analysis
   - Guides to Prolific, AWS, the HBS Grid and the fundamentals of coding
 
